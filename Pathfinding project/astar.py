@@ -378,7 +378,7 @@ def get_clicked_pos(pos, rows, width):
 def main(win, width):
     global origin
 
-    ROWS = 15
+    ROWS = 40
     grid = make_grid(ROWS, width)
 
     start = None
